@@ -17,6 +17,3 @@ Online Training
 
 🔖 [edX](https://www.edx.org/)
 
-🔖 [CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
-
-🔖 [Raspberry Pi](https://www.raspberrypi.com/)
